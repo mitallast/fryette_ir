@@ -1,0 +1,9 @@
+[package]
+name = "fryette_ir"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+hound = "3.5"
+anyhow = "1.0"
+
